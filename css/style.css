@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 254, 251);
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1, hr{
+    color:rgb(38, 70, 83);
+}
+h2{
+    color: rgb(42, 157, 143);
+}
+h3{
+    color: rgb(233, 196, 106);
+}
+h4, th{
+    color: rgb(244, 162, 97);
+}
+h5, a{
+    color: rgb(231, 111, 81);
+}
+table, th, td {
+    border: 1px solid;
+  }
+
+
