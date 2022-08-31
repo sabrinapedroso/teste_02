@@ -40,3 +40,8 @@ a{
 .video{
     margin-left: 70px;
 }
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
