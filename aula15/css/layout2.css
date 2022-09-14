@@ -27,20 +27,22 @@ header{
     color: #e32936;
 }
 .conteudo{
-    color: #9c9c9c;
-    background-color: #161616;
+    background-color: gainsboro;
     text-align: justify;
     border-radius: 5px;
     padding: 20px;
     margin: 20px 10px 20px 10px;
     box-shadow: 10px 10px 10px #08101a98;
-    float: left;   
+    float: left; 
 }
+h2{
+       color: #1f3f66; 
+}  
 .principal{
     display: flex;
 }
 .conteudo:hover{
-    background-color: #181818;
+    background-color: rgb(206, 205, 205);
 }
 .central{
     width: 4500px;
